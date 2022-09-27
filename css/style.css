@@ -1,3 +1,4 @@
+
 *{
     background-color: red;
 }
@@ -7,4 +8,26 @@
     background-color: blue;
     border: solid black;
     border-radius: 50%;
+
+.t{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.tt{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    top: 160px;
+    left: 55px;
+}
+.ttt{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    top: 197px;
+    left: 102px;
+
 }
