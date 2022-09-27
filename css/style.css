@@ -1,0 +1,10 @@
+*{
+    background-color: red;
+}
+.carlos{
+    height: 770px;
+    width: 770px;
+    background-color: blue;
+    border: solid black;
+    border-radius: 50%;
+}
